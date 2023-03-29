@@ -1,2 +1,8 @@
 Flask
 Gunicorn
+json
+requests
+datetime
+beautifulsoup4
+line-bot-sdk
+Flask
